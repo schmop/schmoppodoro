@@ -2,7 +2,7 @@
 
 # Simple script to use the pomodoro technique using rofi
 
-pomodoro="/home/schmop/schmoppodoro/cli.ts"
+pomodoro="$HOME/schmoppodoro/cli.ts"
 
 file="/tmp/pomodoro.json"
 state=$(jq -r '.state' $file 2>/dev/null)
