@@ -58,3 +58,7 @@ Or using the rofi menu:
 ```
 # ./rofi-pomodoro.sh
 ```
+
+![start timer](imgs/start_timer.png)
+![duration selection](imgs/duration.png)
+![pause_or_stop.png](imgs/pause_or_stop.png)
